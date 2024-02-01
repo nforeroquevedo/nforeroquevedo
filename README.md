@@ -1,8 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/nforeroquevedo)
+
 <h1 align="center">Hi 👋, I'm Nicolas Forero Quevedo</h1>
 <h3 align="center">A passionate Fullstack developer from Colombia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nforeroquevedo&label=Profile%20views&color=0e75b6&style=flat" alt="nforeroquevedo" /> </p>
 
